@@ -72,8 +72,6 @@ On the side, I enjoy building full-stack and IoT projects like:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhsamudrala11&layout=compact&theme=radical)
 
-![👀 Profile Views](https://komarev.com/ghpvc/?username=trinadhsamudrala11&label=Profile%20views&color=0e75b6&style=flat)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=trinadhsamudrala11&theme=radical)
 
 ---
